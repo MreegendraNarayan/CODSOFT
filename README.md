@@ -1,4 +1,4 @@
 # CODSOFT
-Codes and resources regarding my first internship program in Python Programming done for CODSOFT.
+Codes and resources regarding my first internship program as Python Programmer in CODSOFT.
 <br>
 Author - Mreegendra Narayan
