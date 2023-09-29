@@ -1,7 +1,7 @@
 # CODSOFT
 ## Codes and resources regarding my first internship program as Python Programmer in CODSOFT.
 <br>
-This repository consists codes for making:-
+This repository contains the codes to build:-
 <br>
 1. To-do list.
 <br>
